@@ -1,2 +1,2 @@
-FROM https://github.com/apache/spark.git
+FROM  hshar/webapp
 ADD  . /var/www/html
