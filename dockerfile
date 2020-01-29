@@ -1,2 +1,2 @@
-FROM https://github.com/apache/spark.git
+FROM akshay-ops/jenkins
 ADD  . /var/www/html
